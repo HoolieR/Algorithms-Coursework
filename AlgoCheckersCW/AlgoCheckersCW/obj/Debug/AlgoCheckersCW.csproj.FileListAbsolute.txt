@@ -1,0 +1,38 @@
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+c:\users\work\documents\visual studio 2015\Projects\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+D:\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+D:\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+D:\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+D:\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+D:\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csproj.CoreCompileInputs.cache
+D:\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+D:\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+D:\Coursework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40282609\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+C:\Users\Work\Documents\Year 3 Cousework\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe.config
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.exe
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.pdb
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.exe
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\AlgoCheckersCW.pdb
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\obj\Debug\AlgoCheckersCW.csprojResolveAssemblyReference.cache
+C:\Users\Work\Documents\Year 3 Cousework\Algo Alt\AlgoCheckersCW\AlgoCheckersCW\bin\Debug\Colorful.Console.dll
